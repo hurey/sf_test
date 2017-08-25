@@ -17,6 +17,7 @@ class DefaultController extends Controller
 		$a = true;
 		// issue 001
 		$a = false;
+		$b = true;
 		
         // replace this example code with whatever you need
         return $this->render('default/index.html.twig', [
